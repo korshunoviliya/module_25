@@ -1,2 +1,3 @@
 # Project exclude paths
 /Module_25_1/cmake-build-debug/
+/Module_25_1/.idea/
