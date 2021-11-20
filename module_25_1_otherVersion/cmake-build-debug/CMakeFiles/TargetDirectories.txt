@@ -1,0 +1,5 @@
+D:/Home_work_Clion/Module_25/module_25_1_otherVersion/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Home_work_Clion/Module_25/module_25_1_otherVersion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Home_work_Clion/Module_25/module_25_1_otherVersion/cmake-build-debug/src/CMakeFiles/module_25_1.dir
+D:/Home_work_Clion/Module_25/module_25_1_otherVersion/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+D:/Home_work_Clion/Module_25/module_25_1_otherVersion/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir

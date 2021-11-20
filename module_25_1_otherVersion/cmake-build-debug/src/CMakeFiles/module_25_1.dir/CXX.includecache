@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Coordinate.h
+
+../include/inputCoordinate.h
+Coordinate.h
+../include/Coordinate.h
+
+../include/surgery.h
+Coordinate.h
+../include/Coordinate.h
+
+D:/Home_work_Clion/Module_25/module_25_1_otherVersion/src/inputCoordinate.cpp
+iostream
+-
+Coordinate.h
+D:/Home_work_Clion/Module_25/module_25_1_otherVersion/src/Coordinate.h
+
+D:/Home_work_Clion/Module_25/module_25_1_otherVersion/src/main.cpp
+iostream
+-
+string
+-
+Coordinate.h
+D:/Home_work_Clion/Module_25/module_25_1_otherVersion/src/Coordinate.h
+surgery.h
+D:/Home_work_Clion/Module_25/module_25_1_otherVersion/src/surgery.h
+inputCoordinate.h
+D:/Home_work_Clion/Module_25/module_25_1_otherVersion/src/inputCoordinate.h
+
+D:/Home_work_Clion/Module_25/module_25_1_otherVersion/src/surgery.cpp
+iostream
+-
+Coordinate.h
+D:/Home_work_Clion/Module_25/module_25_1_otherVersion/src/Coordinate.h
+
